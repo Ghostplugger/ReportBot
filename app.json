@@ -1,7 +1,7 @@
 {
   "name": "Mass Report Bot",
   "description": "Pyrogram Mass Report Bot",
-  "repository": "https://github.com/yourusername/mass-report-bot",
+  "repository": "https://github.com/Ghostplugger/ReportBot",
   "logo": "https://telegra.ph/file/abc123.jpg",
   "keywords": ["python", "telegram", "bot"],
   "env": {
