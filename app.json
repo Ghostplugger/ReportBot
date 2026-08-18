@@ -23,7 +23,7 @@
     },
     "MONGO_URL": {
       "description": "MongoDB URL from mongodb.com",
-      "required": true
+      "required": false
     },
     "DB_NAME": {
       "description": "Database Name (default: startlove)",
